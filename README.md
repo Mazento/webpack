@@ -1,2 +1,2 @@
 # webpack
-<scriptsrc="main.js"></script>
+<script src="main.js"></script>
